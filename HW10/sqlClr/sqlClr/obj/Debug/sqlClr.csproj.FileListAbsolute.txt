@@ -1,0 +1,5 @@
+C:\Users\Dev\source\repos\sqlClr\sqlClr\bin\Debug\sqlClr.dll
+C:\Users\Dev\source\repos\sqlClr\sqlClr\bin\Debug\sqlClr.pdb
+C:\Users\Dev\source\repos\sqlClr\sqlClr\obj\Debug\sqlClr.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\sqlClr\sqlClr\obj\Debug\sqlClr.dll
+C:\Users\Dev\source\repos\sqlClr\sqlClr\obj\Debug\sqlClr.pdb
